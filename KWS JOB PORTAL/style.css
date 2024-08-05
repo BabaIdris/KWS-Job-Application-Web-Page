@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+    background-image: url('C:/xampp/htdocs/KWS JOB PORTAL/images/Tembo Background.jpg');
+    background-size: cover; /* This makes the image cover the entire background */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+}
